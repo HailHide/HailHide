@@ -1,1 +1,1 @@
-This account is used to store small helpful code.
+This account is used to store helpful code.
